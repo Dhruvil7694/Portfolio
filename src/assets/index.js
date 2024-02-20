@@ -45,7 +45,7 @@ import portfolio from './portfolio-demo.png';
 import musketeers from './musketeers.png';
 import weather from './weather.png';
 import twitterClone from './twitterclone.png';
-import staking from './staking.png';
+import staking from './Staking.png';
 
 import saurabh from './saurabh.png';
 
